@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/willpower/"}
+{"dg-publish":true,"permalink":"/willpower/","created":"","updated":""}
 ---
 
 
