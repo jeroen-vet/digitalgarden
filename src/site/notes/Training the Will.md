@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/training-the-will/"}
+{"dg-publish":true,"permalink":"/training-the-will/","created":"","updated":""}
 ---
 
 
