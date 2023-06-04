@@ -3,6 +3,8 @@
 ---
 
 
+# Jeroen Vet ('63)
+
 ![Jeroen Vet giving a demonstration](https://spiritual-garden.com/img/mmexport1664549880043.jpg)
 _Jeroen Vet giving a demonstration in Shanghai in 2022_
 
