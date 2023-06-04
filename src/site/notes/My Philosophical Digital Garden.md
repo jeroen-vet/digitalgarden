@@ -18,7 +18,7 @@ So evidently we should pursue this unsurpassed happiness if we are rational bein
 Coming back to the four levels, they are:
 1. Instinct. The only motivation is gratification of the instinctual desires.
 2. Culture. Through education people on this level (and most of us are), recognize religion and spirituality as important themes, but are too involved in the world to focus their attention on inner development.
-3. Awakening. On this level there has been a recognition of suffering (see [[Base Panic\|Base Panic]] and questions arise about how to take away the suffering, coupled with a strong belief that answers to those questions can be found.
+3. Awakening. On this level there has been a recognition of suffering (see [[Base Panic\|Base Panic]]) and questions arise about how to take away the suffering, coupled with a strong belief that answers to those questions can be found.
 4. Practice. At this level awakening to the Truth has already taken place (it is is the transition from level 3 to 4). What remains to be left done is shadow-work. Extinguishing all traces of Big Ego. 
 
 ### The Transitions
