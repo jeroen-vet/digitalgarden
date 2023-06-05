@@ -3,7 +3,7 @@
 ---
 
 
-<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-016LPJM6XZ"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-016LPJM6XZ'); </script>
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-VTS8P5L3R1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-VTS8P5L3R1'); </script>
 
 
 # My Spiritual Garden
@@ -20,7 +20,7 @@ I identify four levels in our spiritual development. But first perhaps I should 
 So evidently we should pursue this unsurpassed happiness if we are rational beings.
 Coming back to the four levels, they are:
 1. Instinct. The only motivation is gratification of the instinctual desires.
-2. Culture. Through education people on this level (and most of us are), recognize religion and spirituality as important themes, but are too involved in the world to focus their attention on inner development. Moreover, they are still governed by emotions as they fail to take distance from thought (see [[Feeling and Emotion\|Feeling and Emotion]]).
+2. Culture. Through education people on this level (and most of us are), recognize religion and spirituality as important themes, but are too involved in the world to focus their attention on inner development. Moreover, they are still governed by emotions as they fail to take distance from thought (see [[Feeling and Emotion\|Feeling and Emotion]]). They still very much buy into [[The Narrative\|The Narrative]].
 3. Awakening. On this level there has been a recognition of suffering (see [[Base Panic\|Base Panic]]) and questions arise about how to take away the suffering, coupled with a strong belief that answers to those questions can be found.
 4. Practice. At this level awakening to the Truth has already taken place (it is is the transition from level 3 to 4). What remains to be left done is shadow-work. Extinguishing all traces of Big Ego. 
 
