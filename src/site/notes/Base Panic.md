@@ -5,6 +5,8 @@
 
 # Base Anxiety
 
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-VTS8P5L3R1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-VTS8P5L3R1'); </script>
+
 #type/insight 
 
 There is a base panic [恐慌](https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=panic# "Show information about all characters") (kong3huang1) in all people that is akin to animals always looking for food but worse as thinking is involved. So there is a continuous narrative that reinforces this panic or anxiety [焦急](https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=anxiety# "Show information about all characters")(jiao1ji2). Survival. Food, shelter, social acceptance, order but perhaps above all  maintaining the image one has of oneself and defending the ingrained beliefs in general. The panic arises from the idea that we are the body, that we grow older and die to lose all. It is manifested by impatience, restlessness, a feeling of urgency a continuous rush, insensitivity, alienation. 
