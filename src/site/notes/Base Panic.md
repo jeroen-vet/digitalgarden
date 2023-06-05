@@ -6,7 +6,25 @@
 # Base Anxiety
 
 <!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-VTS8P5L3R1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-VTS8P5L3R1'); </script>
-
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://www-spiritual-garden-com.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 #type/insight 
 
 There is a base panic [恐慌](https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=panic# "Show information about all characters") (kong3huang1) in all people that is akin to animals always looking for food but worse as thinking is involved. So there is a continuous narrative that reinforces this panic or anxiety [焦急](https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=anxiety# "Show information about all characters")(jiao1ji2). Survival. Food, shelter, social acceptance, order but perhaps above all  maintaining the image one has of oneself and defending the ingrained beliefs in general. The panic arises from the idea that we are the body, that we grow older and die to lose all. It is manifested by impatience, restlessness, a feeling of urgency a continuous rush, insensitivity, alienation. 
