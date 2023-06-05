@@ -3,6 +3,11 @@
 ---
 
 
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-VTS8P5L3R1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-VTS8P5L3R1'); </script>
+
+# Self Enquiry a New Take
+
+
 #type/insight 
 
 Self-enquiry according to Sri Ramana Maharshi, is basically asking the question to whom does this thought appear? It aims as focusing attention at consciousness itself. To abide in consciousness without thought. A very useful exercise no doubt.
