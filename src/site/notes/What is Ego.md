@@ -4,25 +4,7 @@
 
 
 <!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-VTS8P5L3R1"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-VTS8P5L3R1'); </script>
-<div id="disqus_thread"></div>
-<script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://www-spiritual-garden-com.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
 # What is Ego
 
 #type/insight 
@@ -42,3 +24,23 @@ All we are saying is to try a different perspective. That perspective will dawn 
 When we give up identification with Ego we are not giving up the mind. It is not possible to participate in this world without mind or without a healthy Ego. So we can totally know if we are enlightened. Mind will know. From its clarity, its silence and from the absence of worries of suffering and so on. 
 I largely agree then with Aaron Abke in [his video What is Ego?](https://youtu.be/M_C5Cua9VL8) According to him "The Ego is not your instincts, intuition and intention. The Ego is what commentates on your instincts, intuition and intention". To him it is also a program. But I would not limit it to instincts, intuition or intention. See my [[Useful thinking\|Useful thinking]] note.  It is an imaginary person, an imaginary friend we dearly love. The process is the commentating (as there is no reply we cannot say conversation) on the imaginary person "Me". Me thinks I nailed it here.
 So mind boots up a stream of comments directed at this imaginary friend because in mind there exists the belief of separation and Ego. But see also the note about useful identities in [[Self Enquiry a New Take\|Self Enquiry a New Take]]
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://www-spiritual-garden-com.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
