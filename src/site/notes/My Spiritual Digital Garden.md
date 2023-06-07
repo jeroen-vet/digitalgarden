@@ -9,7 +9,7 @@
 # My Spiritual  Digital Garden
 
 ## Introduction
-Hi guys! Welcome to my spiritual digital garden. The contents of this site, which are continuously being tended upon by its gardener, [[that's me\|that's me]], will be my metaphysical musings. I am an ardent follower of the classical Advaita Vedanta (see [[Non Duality\|Non Duality]]) and count my blessings that thanks to the wonders of technology I have come across this ageless philosophy.
+Hi guys! Welcome to my spiritual digital garden. The contents of this site, which are continuously being tended upon by its gardener, [[that's me\|that's me]], will be my metaphysical musings. I am an ardent follower of the classical [[Non Duality\|Advaita Vedanta]] and count my blessings that thanks to the wonders of technology I have come across this ageless philosophy.
 I want to spread this wonderful word!
 
 ## Spirituality demystified
