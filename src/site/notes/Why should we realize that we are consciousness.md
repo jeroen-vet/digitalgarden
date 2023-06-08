@@ -7,15 +7,15 @@
 
 #type/insight 
 
-### Why should we realize that we are consciousness
+# Why should we realize that we are consciousness
 
-Having had a discussion with my sister. She said “we are an energy that will travel beyond”. I said why so abstract why not say we are consciousness as we know consciousness well and this blob of energy is just an abstract idea which may or may not be true (energy is also an object of which we are aware so cannot be it). It was difficult to admit for her (although in the end she conceded that point). What can we learn from this? First that for average people it is exceedingly difficult to admit they are the subject. If you are something it must always be some kind of object. Body or perhaps more abstract energy. It is like the 10 men crossing the river missing one. We forget we are the subject being so engrossed in the world of objects. 
+Having had a discussion with my sister. She said “we are an energy that will travel beyond”. I said why so abstract why not say we are consciousness as we know consciousness well and this blob of energy is just an abstract idea which may or may not be true (energy is also an object of which we are aware so cannot be it). It was difficult to admit for her (although in the end she conceded that point). What can we learn from this? First that for the average people it is exceedingly difficult to admit they are the subject. If you are something it must always be some kind of object. Body or perhaps more abstract energy. It is like the 10 men crossing the river missing one. We forget we are the subject being so engrossed in the world of objects. 
 
 But then what is the benefit of realizing we are consciousness, that is a question that started getting hold of me? Well if we start to contemplate that we discover a number of things:
 
 - Consciousness doesn’t change therefore it must be timeless, therefore we must be immortal and time must be an illusion.
     
-- We see change because consciousness does not change, as there must be constant reference point to note change (there must be correspondence with the speed of light here and between light and consciousness).
+- We see change because consciousness does not change, as there must be a constant reference point to note change (there must be correspondence with the speed of light here and between light and consciousness).
     
 - Consciousness is not affected by anything so we must be invulnerable so there is nothing to fear.
     
