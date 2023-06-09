@@ -20,7 +20,7 @@ What are the useful, skillful or allowable types of thinking? We are reasoning f
 8. Designing
 9. Contemplation. A combination of questioning and trying to answer the question. It is making things explicit. As if trying to convince somebody else. It is a way of arriving at sound knowledge.
 
-__In general with useful types of thinking you would create some document, that incrementally improves. This is because you cannot keep to many variables in your mind.__
+__In general with useful types of thinking you would create some document, that incrementally improves. This is because you cannot keep too many variables in your mind.__
 
 Not allowable: any thought that involves "I" or that is about "I". Any thoughts that ruminate the past. Any thought about others "Oh he is so and so". Any judging. 
 
