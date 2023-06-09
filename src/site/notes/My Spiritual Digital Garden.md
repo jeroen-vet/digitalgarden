@@ -22,7 +22,7 @@ Coming back to the four levels, they are:
 1. Instinct. The only motivation is gratification of the instinctual desires.
 2. Culture. Through education people on this level (and most of us are), recognize religion and spirituality as important themes, but are too involved in the world to focus their attention on inner development. Moreover, they are still governed by emotions as they fail to take distance from [[Everybody is anxious\|thought]] (see [[Feeling and Emotion\|Feeling and Emotion]] and [[Thought is sound imagination\|Thought is sound imagination]]). They still very much buy into [[The Narrative\|The Narrative]].
 3. Awakening. On this level there has been a recognition of suffering (see [[Base Panic\|Base Panic]]) and questions arise about how to take away the suffering, coupled with a strong belief that answers to those questions can be found.
-4. Practice. At this level awakening to the Truth has already taken place (it is is the transition from level 3 to 4). What remains to be left done is shadow-work. Extinguishing all traces of Big Ego. Perhaps one could say give up [[Resistance\|Resistance]] altogether and surrender to Cosmic Love unconditionally.
+4. Practice. At this level awakening to the Truth (see [[What is liberation or enlightenment?\|What is liberation or enlightenment?]]) has already taken place (it is is the transition from level 3 to 4). What remains to be left done is shadow-work. Extinguishing all traces of Big Ego. Perhaps one could say give up [[Resistance\|Resistance]] altogether and surrender to Cosmic Love unconditionally.
 
 ### The Transitions
 
