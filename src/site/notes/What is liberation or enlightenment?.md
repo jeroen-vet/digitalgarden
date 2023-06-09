@@ -7,7 +7,7 @@
 
 
 
-What is liberation or enlightenment?
+# What is liberation or enlightenment?
 
 It is breaking through the trance thrown up by the individual mind. This releases the consciousness or takes away the barriers. The result is a cosmic consciousness behind which supposedly there is pure awareness. It is shifting the attention away from the mind and all its contents. This is only possible when no longer interested when dispassionate. Once you are able to you can shift in and out of the world at will, the world (mind) becomes your home instead of a prison. It is leaving mind, going beyond mind. It is a fundamental change of Point of View. Instead of taking as the center this dead mind that is given some light by the Self and the shadowy objects that are als lit up by the Self, you take the Self itself as center and abide in it.
 
