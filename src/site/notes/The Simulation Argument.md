@@ -8,9 +8,9 @@
 
 # The Simulation Argument
 
-The simulation argument that we are living in a simulation by another civilization is  my view total BS (excuse my French!)
+The simulation argument that we are living in a simulation by another civilization is, in my view, total BS (excuse my French!).
 
-1. The idea that if a sufficiently powerful computer does the simulation the simulated people will suddenly become conscious as we  as long as you simulate the brain down to the neuron level seems magical thinking. You will just end up with simulations that appear to act conscious but are not. WHat is a computer? It is nothing but state changes from one clock tick to the other a change of state. You could also let people do the calculations and write down the result on paper. Granted it would take a lot more time but the rate should not make any difference. Now would the sims suddenly become sentient from the paper their new state is recorded on? The description is not the thing.
+1. The idea that if a sufficiently powerful computer does the simulation the simulated people will suddenly become conscious as long as you simulate the brain down to the neuron level, seems magical thinking. You will just end up with simulations that appear to act as if conscious but are not. What is a computer? It is nothing but state changes from one clock tick to the other a change of state. You could also let people do the calculations and write down the result on paper. Granted it would take a lot more time but the rate should not make any difference. Now would the sims suddenly become sentient from the paper their new state is recorded on? The description is not the thing.
     
 2. There is the problem of the first simulation and subsequent simulations. The first simulation would have the exact same problem they could also conclude that in fact they are living in a simulation. The simulated people could start their own simulation _ad infinitum_ grinding to a halt eventually when all computing capacity has been used up. So it is absurd.
     
