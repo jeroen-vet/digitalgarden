@@ -20,7 +20,7 @@ I identify four levels in our spiritual development. But first perhaps I should 
 So evidently we should pursue this unsurpassed happiness if we are rational beings.
 Coming back to the four levels, they are:
 1. Instinct. The only motivation is gratification of the instinctual desires.
-2. Culture. Through education people on this level (and most of us are), recognize religion and spirituality as important themes, but are too involved in the world to focus their attention on inner development. Moreover, they are still governed by emotions as they fail to take distance from [[Everybody is anxious\|thought]] (see [[Feeling and Emotion\|Feeling and Emotion]] and [[Thought is sound imagination\|Thought is sound imagination]]). They still very much buy into [[The Narrative\|The Narrative]].
+2. Culture. Through education people on this level (and most of us are), recognize religion and spirituality as important themes, but are too involved (see [[Involved vs. Detached\|Involved vs. Detached]]) in the world to focus their attention on inner development. Moreover, they are still governed by emotions as they fail to take distance from [[Everybody is anxious\|thought]] (see [[Feeling and Emotion\|Feeling and Emotion]] and [[Thought is sound imagination\|Thought is sound imagination]]). They still very much buy into [[The Narrative\|The Narrative]].
 3. Awakening. On this level there has been a recognition of suffering (see [[Base Panic\|Base Panic]]) and questions arise about how to take away the suffering, coupled with a strong belief that answers to those questions can be found.
 4. Practice. At this level awakening to the Truth (see [[What is liberation or enlightenment?\|What is liberation or enlightenment?]]) has already taken place (it is is the transition from level 3 to 4). What remains to be left done is shadow-work. Extinguishing all traces of Big Ego. Perhaps one could say give up [[Resistance\|Resistance]] altogether and surrender to Cosmic Love unconditionally.
 
@@ -28,8 +28,7 @@ Coming back to the four levels, they are:
 
 Transition from level 1 to 2 is the duty of society. The more it can, through its education and culture, lift people out of level 1 the more successful society is.
 Transition from level 2 to 3 is the most crucial. It is the stumbling block for most people. However, it is simply a matter of generating interest, zeal even by detaching from the world through the recognition of suffering and an intuition as to its cause. Success, sooner or later, is guaranteed after crossing this line.
-Transition from level 3 to 4 occurs when all questions have been answered, there exists a solid conceptual grip on the philosophy and some insights have already occurred. The seeker comes to realize (see [[What is Ego\|What is Ego]]) that it is now just a matter of shadow-work to remove the remnants of Big Ego (see [[Identification and Ego\|Identification and Ego]]). Practice is necessary for example through the most effective embodiment practice of Tai Chi. See my note [[Training the Will\|Training the Will]].
-
+Transition from level 3 to 4 occurs when all questions have been answered, there exists a solid conceptual grip on the philosophy and some insights have already occurred. The seeker comes to realize (see [[What is Ego\|What is Ego]]) that it is now just a matter of shadow-work to remove the remnants of Big Ego (see [[Identification and Ego\|Identification and Ego]]). P
 <script id="dsq-count-scr" src="//www-spiritual-garden-com.disqus.com/count.js" async></script>
 <div id="disqus_thread"></div>
 <script>
@@ -50,3 +49,4 @@ Transition from level 3 to 4 occurs when all questions have been answered, there
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+ractice is necessary for example through the most effective embodiment practice of Tai Chi. See my note [[Training the Will\|Training the Will]].
