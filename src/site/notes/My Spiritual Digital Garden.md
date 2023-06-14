@@ -28,7 +28,9 @@ Coming back to the four levels, they are:
 
 Transition from level 1 to 2 is the duty of society. The more it can, through its education and culture, lift people out of level 1 the more successful society is.
 Transition from level 2 to 3 is the most crucial. It is the stumbling block for most people. However, it is simply a matter of generating interest, zeal even by detaching from the world through the recognition of suffering and an intuition as to its cause. Success, sooner or later, is guaranteed after crossing this line.
-Transition from level 3 to 4 occurs when all questions have been answered, there exists a solid conceptual grip on the philosophy and some insights have already occurred. The seeker comes to realize (see [[What is Ego\|What is Ego]]) that it is now just a matter of shadow-work to remove the remnants of Big Ego (see [[Identification and Ego\|Identification and Ego]]). P
+Transition from level 3 to 4 occurs when all questions have been answered, there exists a solid conceptual grip on the philosophy and some insights have already occurred. The seeker comes to realize (see [[What is Ego\|What is Ego]]) that it is now just a matter of shadow-work to remove the remnants of Big Ego (see [[Identification and Ego\|Identification and Ego]]). Practice is necessary, for example through the most effective embodiment practice of Tai Chi. See my note [[Training the Will\|Training the Will]].
+
+
 <script id="dsq-count-scr" src="//www-spiritual-garden-com.disqus.com/count.js" async></script>
 <div id="disqus_thread"></div>
 <script>
@@ -49,4 +51,4 @@ Transition from level 3 to 4 occurs when all questions have been answered, there
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-ractice is necessary for example through the most effective embodiment practice of Tai Chi. See my note [[Training the Will\|Training the Will]].
+
