@@ -4,6 +4,8 @@
 
 
 
+# It is so simple
+
 How can we forget that all suffering is self created? It is just the energetic reaction to our thoughts. It is the story that we create in our minds. The remedy is so simple: do not think about yourself, do not think about how other people see you, do not judge, do not criticize, do not form any opinion whatsoever. Just do your thing and do not allow any such negative thoughts in your mind. Inquire instead where these thoughts come from or otherwise just concentrate on the "I" feeling and the worries will disappear like snow in the sun. Is it then still necessary to indulge in drugs or alcohol when the answer is so simple?
 
 Unfortunately, entrenched beliefs have thrown up walls that prevent us from listening to and appreciating this simple truth. When it is clear it is unimaginable that others don't see it as well. Still if energy is low we can still forget it temporarily.
